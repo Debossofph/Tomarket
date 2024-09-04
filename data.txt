@@ -1,1 +1,2 @@
-Paste here your query/user data
+API_ID=20872809 
+HASH=7ae3394aa86e7d6f8b526abcc2cd8372 
